@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
-
+<head>
+<title>
+Main Page
+</title>
+</head>
 <body>
 
 <h2>Spring MVC Demo - Home Page</h2>
